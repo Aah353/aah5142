@@ -7,6 +7,7 @@ def expressions_practice():
     print(int(number1 / number2)) #Division
     print(int(number1 // number2)) #Floor Division
     print(int(number1 ** number2)) #Exponent
+    print(int(number1 % number2)) #Mod
     print(int(number1**number2-number1+number2/number1)) # A mix of 4 different arithmentic functions
 
 expressions_practice()
